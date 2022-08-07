@@ -13,7 +13,8 @@
   * [PS 4주차](#ps-4주차-220708star)  
   * [PS 5주차](#ps-5주차-220717star)  
   * [PS 6주차](#ps-6주차-220724star)  
-  * [PS 7주차](#ps-7주차-220731star)  
+  * [PS 7주차](#ps-7주차-220731star)
+  * [PS 8주차](#ps-8주차-220807star)
 
 ---
 ## Review of Algorithms & Data Structures:star2:
@@ -147,4 +148,14 @@
   - 새로오신 분들을 위해, 구현 부분 쉬운 문제부터 다시 진행 (2인 1조, 3인 1조 형식으로 진행)
 - [풀이 내용](./ProblemSolving/7주차/)
   - BOJ 구현 ([2753](https://www.acmicpc.net/problem/2753), [1212](https://www.acmicpc.net/problem/1212), [20053](https://www.acmicpc.net/problem/20053), [5597](https://www.acmicpc.net/problem/5597))
+---
+### PS 8주차 (22/08/07):star:
+- 코딩테스트 리뷰 (K, W)
+- 진행 방식 및 기본적인 내용 소개
+  - 구현, BFS&DFS, 그리디, 다이나믹 프로그래밍, 시뮬레이션 등의 순서로 진행 예정
+  - 문제 풀이한 내용은 **Problem_Solving/n주차/<본인 이름>** 폴더 아래에 업로드하셔야 합니다.
+  - [참고 자료](https://github.com/tony9402/baekjoon)를 활용하여, 기본 문제부터 하나씩 풀어갈 예정
+  - [CodeUp 2019 정올 1차 대비](https://codeup.kr/problemsetsol.php?psid=31)로 구현 기본을 다시 할 예정
+- [풀이 내용](./ProblemSolving/8주차/)
+  - CodeUp 2019 정올 1차 대비 ([4816](https://codeup.kr/problem.php?id=4816), [4818](https://codeup.kr/problem.php?id=4818), [4846](https://codeup.kr/problem.php?id=4846), [4861](https://codeup.kr/problem.php?id=4861), [4876](https://codeup.kr/problem.php?id=4876), [4891](https://codeup.kr/problem.php?id=4891))
 ---
