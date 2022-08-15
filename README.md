@@ -159,3 +159,9 @@
 - [풀이 내용](./ProblemSolving/8주차/)
   - CodeUp 2019 정올 1차 대비 ([4816](https://codeup.kr/problem.php?id=4816), [4818](https://codeup.kr/problem.php?id=4818), [4846](https://codeup.kr/problem.php?id=4846), [4861](https://codeup.kr/problem.php?id=4861), [4876](https://codeup.kr/problem.php?id=4876), [4891](https://codeup.kr/problem.php?id=4891))
 ---
+### PS 9주차 (22/08/13):star:
+- 쉬어가는 주
+- 오프라인 친목 모임 진행 (호호식당, 한신치킨, 한강)
+- 비바람이 휩쓸고 간... 세빛둥둥섬에 놀러 갔습니다.
+- 4시반에 만났는데도, 집에 못들어갈번 했으니, 다음엔 더 일찍 만나는 걸로... :star:
+---
