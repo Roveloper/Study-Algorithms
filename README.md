@@ -15,7 +15,8 @@
   * [PS 6주차](#ps-6주차-220724star)  
   * [PS 7주차](#ps-7주차-220731star)
   * [PS 8주차](#ps-8주차-220807star)
-
+  * [PS 9주차](#ps-9주차-220813star)
+  * [PS 10주차](#ps-10주차-220821star)
 ---
 ## Review of Algorithms & Data Structures:star2:
 - [이코테 재생목록](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
@@ -164,4 +165,18 @@
 - 오프라인 친목 모임 진행 (호호식당, 한신치킨, 한강)
 - 비바람이 휩쓸고 간... 세빛둥둥섬에 놀러 갔습니다.
 - 4시반에 만났는데도, 집에 못들어갈번 했으니, 다음엔 더 일찍 만나는 걸로... :star:
+---
+### PS 10주차 (22/08/21):star:
+- 스터디 참석율 관련 개선 방안
+  1. 전날 공지를 하는 것이 필요 (매주 토요일)
+  2. 미리 말씀하지 않으시고, 지각 or 불참하시면 벌금 징수
+     - 8시 5분까지는 벌금 없음
+     - 8시 15분까지 오시면 2000원
+     - 8시 30분까지 오시면 5000원
+     - 그 이상은 1 ~ 3만원 사이
+- GitHub에 업로드하는 것에 대한 개선 방안
+  - 1주 늦을 때마다 벌금 1000원 누적
+  - ex) 1주 늦으면 1000원, 2주 늦으면 3000원, 3주 늦으면 6000원, ... 등
+- [풀이 내용](./ProblemSolving/10주차/)
+  - BOJ 구현 문제 ([10809](https://www.acmicpc.net/problem/10809), [8958](https://www.acmicpc.net/problem/8958), [1157](https://www.acmicpc.net/problem/1157))
 ---
