@@ -5,7 +5,7 @@ for i in range(0,N):
     a = apple%student
     sum += a
 
-print(sum)
+print(sum)###
 
 
 

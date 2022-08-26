@@ -7,7 +7,7 @@ for i in word:
         print(S.index(i),end=' ')
     else:
         print(-1, end=' ')
-
+###############
      
 
 
