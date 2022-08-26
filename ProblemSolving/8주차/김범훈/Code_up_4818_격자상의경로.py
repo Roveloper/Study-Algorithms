@@ -1,3 +1,4 @@
+#######
 N, M, K = map(int, input().split())
 K_col = (K % M)
 K_row = (K // M) + 1

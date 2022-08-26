@@ -2,7 +2,7 @@
 #a : A가 내는 딱지에 나온 그림의 총 개수 
 #b : B가 내는 딱지에 나온 그림의 총 개수
 #4 > 3 > 2 > 1순 높은 숫자가 많으면 이기는 게임
-
+##########
 N = int(input())
 for i in range(0,N):
     A = list(map(int,input().split()))

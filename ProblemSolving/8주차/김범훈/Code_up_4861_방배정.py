@@ -1,6 +1,6 @@
 # N : 수학여행 참여학생, K : 한방에 최대 인원수 (K인 1실)
 # S : 성별, Y : 학년    
-
+#########
 #간단한 풀이
 import math
 N,K = map(int,input().split())
