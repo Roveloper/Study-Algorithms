@@ -1,3 +1,4 @@
+##############
 alphabet_list = []
 word = input()
 
