@@ -1,0 +1,6 @@
+import string
+lower = [i for i in string.ascii_lowercase]
+w = input()
+for j in lower:
+    a = w.find(str(j))
+    print(a)
