@@ -1,5 +1,0 @@
-n = input()
-n_oct = int(n, 8)
-n_dec = int(n_oct)
-ans = format(n_dec, 'b')
-print(ans)
