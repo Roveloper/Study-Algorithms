@@ -1,0 +1,25 @@
+import string
+upper = [i for i in string.ascii_uppercase]
+n_list = [0 for i in range(26)]
+n = input()
+N = n.upper()
+for i in N:
+    for j in range(26):
+        if i == upper[j]:
+            n_list[j] = n_list[j] + 1
+
+max_index = n_list.index(max(n_list))
+count = 0
+for k in range(26):
+    if k != max_index:
+        if n_list[k] == n_list[max_index]:
+            count = 1
+
+if count == 1:
+    print('?')
+else:
+    print(upper[max_index])
+
+
+
+
