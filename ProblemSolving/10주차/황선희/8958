@@ -1,0 +1,15 @@
+n = int(input())
+count = 0
+score = 0
+for i in range(n):
+    nn = input()
+    for j in range(len(nn)):
+        if nn[j] == 'O':
+            count = count + 1
+            score = score + count
+        else:
+            count = 0
+    print(score)
+    score = 0
+    count = 0
+
