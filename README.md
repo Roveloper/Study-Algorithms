@@ -183,7 +183,7 @@
 ---
 ### PS 11주차 (22/09/04):star:
 - 다음주는 `추석`이라 쉬어갑니다.
-- 2주 뒤에는 코테 준비하시는 분들의 숫자에 따라, 진행 내용을 변경할 예정
+- 2주 뒤에는 코테 준비하시는 분들의 숫자에 따라, 진행 내용을 변경할 예정.
 - [풀이 내용](./ProblemSolving/11주차/)
   - BOJ 구현 문제 ([1316](https://www.acmicpc.net/problem/1316), [4673](https://www.acmicpc.net/problem/4673), [12933](https://www.acmicpc.net/problem/12933))
 ---
