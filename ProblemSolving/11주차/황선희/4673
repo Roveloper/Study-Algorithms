@@ -1,0 +1,14 @@
+old = []
+new = []
+
+for i in range(1, 10001):
+    old.append(i)
+    num = (i + (i % 10) + (i // 10 % 10) + (i // 100 % 10) + (i // 1000))
+    new.append(num)
+
+new.sort()
+
+new_sub = [x for x in old if x not in new]
+
+for j in range(len(new_sub)):
+    print(new_sub[j])
