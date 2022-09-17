@@ -1,0 +1,12 @@
+n = int(input())
+count = 0
+for i in range(n):
+    w = input()
+    for j in range(len(w)-1):
+        if w.find(w[j]) <= w.find(w[j+1]):
+            pass
+        else:
+            count = count + 1
+            break
+
+print(n-count)
