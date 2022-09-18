@@ -18,6 +18,7 @@
   * [PS 9주차](#ps-9주차-220813star)
   * [PS 10주차](#ps-10주차-220821star)
   * [PS 11주차](#ps-11주차-220904star)
+  * [PS 12주차](#ps-12주차-220918star)
 ---
 ## Review of Algorithms & Data Structures:star2:
 - [이코테 재생목록](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
@@ -186,4 +187,10 @@
 - 2주 뒤에는 코테 준비하시는 분들의 숫자에 따라, 진행 내용을 변경할 예정.
 - [풀이 내용](./ProblemSolving/11주차/)
   - BOJ 구현 문제 ([1316](https://www.acmicpc.net/problem/1316), [4673](https://www.acmicpc.net/problem/4673), [12933](https://www.acmicpc.net/problem/12933))
+---
+### PS 12주차 (22/09/18):star:
+- 혹시 공채 코테 준비 하는 분 (준규님, 예빈님)
+- Softeer 결과 및 문제 공개되면 리뷰 예정
+- [풀이 내용](./ProblemSolving/12주차/)
+  - BOJ 구현 문제 ([10994](https://www.acmicpc.net/problem/10994), [20436](https://www.acmicpc.net/problem/20436))
 ---
