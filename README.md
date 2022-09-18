@@ -191,6 +191,7 @@
 ### PS 12주차 (22/09/18):star:
 - 혹시 공채 코테 준비 하는 분 (준규님, 예빈님)
 - Softeer 결과 및 문제 공개되면 리뷰 예정
+- 다음주에는 `BFS`, `DFS` 관련 이론 및 문제 풀이 예정
 - [풀이 내용](./ProblemSolving/12주차/)
   - BOJ 구현 문제 ([10994](https://www.acmicpc.net/problem/10994), [20436](https://www.acmicpc.net/problem/20436))
 ---
