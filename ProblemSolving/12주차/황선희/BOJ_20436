@@ -1,0 +1,31 @@
+sl, sr = input().split()
+
+keyboard = [['q', 'w', 'e', 'r', 't', 'y', 'u', 'i', 'o', 'p'],
+            ['a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'l'],
+            ['z', 'x', 'c', 'v', 'b', 'n', 'm']]
+
+
+def find_current_location(s):
+    for i, key in enumerate(keyboard):
+        if s in key:
+            return i, key.index(s)
+    return None
+
+slx, sly = find_current_location(sl) 
+srx, sry = find_current_location(sr)  
+answer = 0
+
+for i in input():
+    x, y = find_current_location(i)
+    if ((x == 0 or x == 1) and y < 5) or (x == 2 and y < 4):
+        answer += abs(slx - x) + abs(sly - y)
+        slx = x
+        sly = y
+        answer += 1
+    else:
+        answer += abs(srx - x) + abs(sry - y)
+        srx = x
+        sry = y
+        answer += 1
+
+print(answer, end='')
