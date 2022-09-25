@@ -19,6 +19,7 @@
   * [PS 10주차](#ps-10주차-220821star)
   * [PS 11주차](#ps-11주차-220904star)
   * [PS 12주차](#ps-12주차-220918star)
+  * [PS 13주차](#ps-13주차-220925star)
 ---
 ## Review of Algorithms & Data Structures:star2:
 - [이코테 재생목록](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
@@ -196,7 +197,7 @@
   - BOJ 구현 문제 ([10994](https://www.acmicpc.net/problem/10994), [20436](https://www.acmicpc.net/problem/20436))
 ---
 ### PS 13주차 (22/09/25):star:
-- Softeer 결과 및 문제 공개되면 리뷰 예정 (결과는 나왔는데 아무도 안풀어봄)
+- Softeer 문제 공개 되어서, 다음 주에 리뷰 예정
 - `BFS`, `DFS` 관련 이론 설명 (예빈님)
 - `그래프 탐색` 문제 풀이 진행
 - [풀이 내용](./ProblemSolving/13주차/)
