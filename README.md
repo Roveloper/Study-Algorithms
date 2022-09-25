@@ -195,3 +195,10 @@
 - [풀이 내용](./ProblemSolving/12주차/)
   - BOJ 구현 문제 ([10994](https://www.acmicpc.net/problem/10994), [20436](https://www.acmicpc.net/problem/20436))
 ---
+### PS 13주차 (22/09/25):star:
+- Softeer 결과 및 문제 공개되면 리뷰 예정 (결과는 나왔는데 아무도 안풀어봄)
+- `BFS`, `DFS` 관련 이론 설명 (예빈님)
+- `그래프 탐색` 문제 풀이 진행
+- [풀이 내용](./ProblemSolving/13주차/)
+  - BOJ 그래프 탐색 문제 ([2606](https://www.acmicpc.net/problem/2606), [1260](https://www.acmicpc.net/problem/1260))
+---
