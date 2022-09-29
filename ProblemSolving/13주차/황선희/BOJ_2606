@@ -1,0 +1,31 @@
+def dfs(graph, v, visited):
+    # 현재 노드를 방문 처리
+    visited[v] = True
+    global c
+    #print(v, end=' ')
+    # 현재 노드와 연결된 다른 노드를 재귀적으로 방문
+    for i in graph[v]:
+        print(i)
+        if not visited[i]:
+            dfs(graph, i, visited)
+            c += 1
+
+
+num_com = int(input())      #노드의 수
+num_net = int(input())      #네트워크의 수
+graph = [[] for i in range(num_com+1)]
+visited = [False] * (num_com + 1)
+
+for i in range(num_net):
+    n, m = map(int, input().split())
+    graph[n].insert(n, m)
+    graph[m].insert(m, n)
+
+# print(graph)
+visited = [False] * 9
+
+global c
+c = 0
+
+dfs(graph, 1, visited)
+print(c-1)
